@@ -25,4 +25,5 @@ dependencies {
     compile "com.android.support:appcompat-v7:$project.googleAPIsVersion"
     compile "com.android.support:support-compat:$project.googleAPIsVersion"
     compile "com.android.support:support-v4:$project.googleAPIsVersion"
+    compile "com.android.support:design:$project.googleAPIsVersion"
 }
